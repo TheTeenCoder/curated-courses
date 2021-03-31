@@ -1,5 +1,5 @@
-# about video-tuts
-🌟An educational repository for learning programmers who like learning visually. Find the specific topic you want to learn from and click on the links.🌟
+# about curated-courses
+🌟An educational repository for learning programmers. Find the specific topic you want to learn from and click on the folder/links which will bring you to a free and curated course by yours truly.🌟
 
 
 
