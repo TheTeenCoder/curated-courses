@@ -4,4 +4,5 @@
 
 
 ## IMPORTANT:
-🚨If you'd like to contribute, please read contributing.md 
+1. 🚨If you'd like to contribute, please read contributing.md
+2. Tell your programmer friends about this project!
